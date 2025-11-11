@@ -1,6 +1,7 @@
-# Aluna: Bruna Saturnino de Carvalho
-
 # Projeto de CI/CD com GitHub Actions
+
+Nome: Bruna Saturnino de Carvalho
+Matrícula: 2023001921
 
 Este projeto demonstra a implementação de testes automatizados com CI/CD usando GitHub Actions.
 
